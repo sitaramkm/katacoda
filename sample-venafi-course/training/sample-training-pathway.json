@@ -1,0 +1,13 @@
+{
+  "title": "Sample training ",
+  "description": "sample desc - venafi",
+  "courses": [
+    {
+      "pathway_id": "ventest01",
+      "title": "Venafi Demo Scenario",
+      "id": "ven-scenario",
+      "course_id": "ven-scenario",
+      "description": "A Sample Scenario to demonstrate how to protect machine identities"
+    }
+  ]
+}
