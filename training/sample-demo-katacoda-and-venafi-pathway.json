@@ -1,0 +1,13 @@
+{
+  "title": "Sample demo Katacoda and Venafi",
+  "description": "Sample demo Katacoda and Venafi",
+  "courses": [
+    {
+      "pathway_id": "sitaramkm/sample-venafi-course",
+      "id": "ven-scenario",
+      "course_id": "ven-scenario",
+      "title": "Venafi Demo Scenario",
+      "description": "A Sample Scenario to demonstrate how to protect machine identities"
+    }
+  ]
+}
