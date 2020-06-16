@@ -1,1 +1,1 @@
-Hello ! and welcome to Venafi self learning portal on Katacoda !!
+Welcome! Learn using Venafi with Kubernetes
