@@ -8,5 +8,5 @@ Clone the sample repository that will allow you to deploy the application:
 
 Within the repository, you will see that a 10 tier microservice application has been developed and ready to deploy.
 
-List the directory to see the contents `ls -lha simple-example/microservices-demo`{{execute}}. 
+List the directory to see the contents `ls -lha microservices-demo`{{execute}}. 
 
